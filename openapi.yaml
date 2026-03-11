@@ -1,0 +1,14 @@
+openapi: 3.1.0
+info:
+  title: Mittelstandserfolg Test API
+  version: 1.0.0
+servers:
+  - url: https://example.com
+paths:
+  /:
+    get:
+      operationId: testConnection
+      summary: Test connection
+      responses:
+        '200':
+          description: OK
