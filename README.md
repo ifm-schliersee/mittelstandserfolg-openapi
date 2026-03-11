@@ -1,0 +1,2 @@
+# mittelstandserfolg-openapi
+compumess Kundenfinder
